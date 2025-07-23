@@ -1,0 +1,47 @@
+#L{
+  text-align: center;
+color: blue;
+}
+img{
+ height: 50px;
+ width: 50px;
+ margin: 0 auto;
+ display: block;
+}
+#P{
+  height: 52px;
+  width: 320px;
+  border-radius: 10px;
+  border-style: groove;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  display: flex;
+  align-items: center;
+  
+}
+button{
+  width: 280px;
+  height: 55px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+label{
+  margin-left: 8px;
+}
+.D{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+div{
+  background-color: #f5f8ff;
+}
+body{
+  #ffffff
+}
